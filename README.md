@@ -1,7 +1,5 @@
 # TMIP-EMAT Beta Test - ODOT
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tmip-emat/beta-odot-analysis/master)
-
 The purpose of this test and the following analysis was to 
 evaluate ODOT's new Activity Based Model (ABM); specifically 
 the ability of the ABM to provide information about emerging 
@@ -16,3 +14,13 @@ using realistic data.  This dataset and analysis should not be
 used to draw any specific conclusions about transportation 
 policy's impact on system performance and outcomes.
 
+## How to use these tools
+
+This repository is set up for use with the (binder)[https://mybinder.org]
+service to demonstrate TMIP-EMAT using realistic data in a 
+live interactive environment.  Click the binder link below to
+activate the environment.  It may take a few moments (or a lot of moments,
+depending on the server load) for the complete interactive workspace to
+load. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tmip-emat/beta-odot-analysis/master?urlpath=lab)
