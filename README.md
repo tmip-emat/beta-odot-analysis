@@ -1,5 +1,7 @@
 # TMIP-EMAT Beta Test - ODOT
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tmip-emat/beta-odot-analysis/master)
+
 The purpose of this test and the following analysis was to 
 evaluate ODOT's new Activity Based Model (ABM); specifically 
 the ability of the ABM to provide information about emerging 
