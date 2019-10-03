@@ -1,0 +1,27 @@
+searchover = uncertainties
+
+
+nfe = 2500
+
+
+convergence = default
+
+
+convergence_freq = 100
+
+
+constraints = None
+
+
+reference = Policy({'Transit Everywhere': False, 'Transit LOS': 0.0, 'Parking Rates': 1.0, 'Active Transport Speed': 1})
+
+
+reverse_targets = True
+
+
+algorithm = None
+
+
+epsilons = auto
+
+

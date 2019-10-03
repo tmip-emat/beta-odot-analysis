@@ -1,0 +1,27 @@
+searchover = levers
+
+
+nfe = 5000
+
+
+convergence = default
+
+
+convergence_freq = 100
+
+
+constraints = None
+
+
+reference = Scenario({'Freeway Capacity': 1900.0, 'Auto Operating Costs': 12.4, 'Incomes': 1.0})
+
+
+reverse_targets = False
+
+
+algorithm = None
+
+
+epsilons = auto
+
+

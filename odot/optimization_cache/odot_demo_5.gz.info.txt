@@ -1,0 +1,27 @@
+scenarios = 200
+
+
+convergence = default
+
+
+convergence_freq = 100
+
+
+constraints = None
+
+
+epsilons = 0.1
+
+
+nfe = 2000
+
+
+robustness_functions = [Measure('Worst Case Accessibility', variable_name=['Percentage of Population with Access to 50k Jobs by Car within 20mins in PM'], function=functools.partial(<function percentile at 0x1046b7158>, q=5)), Measure('Worst Case Auto VHT', variable_name=['Thousands of Auto Hours Traveled'], function=functools.partial(<function percentile at 0x1046b7158>, q=95)), Measure('Worst Case Congested Interstate Miles', variable_name=['Percent of Interstate Miles over 90% V/C Ratio During the PM Peak'], function=functools.partial(<function percentile at 0x1046b7158>, q=95))]
+
+
+alg = None
+
+
+check_extremes = 2
+
+
