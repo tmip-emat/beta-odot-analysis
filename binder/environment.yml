@@ -71,6 +71,8 @@ dependencies:
   - jupyter_highlight_selected_word=0.2.0
   - jupyter_latex_envs=1.4.4
   - jupyter_nbextensions_configurator=0.4.1
+  - jupyterlab=1.0.4
+  - jupyterlab_server=1.0.0
   - kiwisolver=1.1.0
   - libedit=3.1.20181209
   - libffi=3.2.1
